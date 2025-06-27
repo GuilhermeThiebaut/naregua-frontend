@@ -1,6 +1,6 @@
 // src/front/js/Agendamento.js
 
-const API_URL = 'https://naregua-backend.onrender.com/api';
+const API_URL = 'https://naregua-backend-g7vr.onrender.com/api';
 let currentStep = 1;
 let agendamentoData = {
   barbeiroId: null, servicoId: null, data: null, horario: null,

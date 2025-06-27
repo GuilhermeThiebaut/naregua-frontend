@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // --- LÓGICA DOS FORMULÁRIOS DE AUTENTICAÇÃO ---
-    const API_BASE_URL = 'https://naregua-backend.onrender.com/api/usuarios';
+    const API_BASE_URL = 'https://naregua-backend-g7vr.onrender.com/api/usuarios';
 
     const loginForm = document.getElementById('loginForm');
     const cadastroForm = document.getElementById('cadastroForm');

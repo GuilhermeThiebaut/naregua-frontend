@@ -1,6 +1,6 @@
 // src/front/js/meus_agendamentos.js
 
-const API_BASE_URL = 'https://naregua-backend.onrender.com/api';
+const API_BASE_URL = 'https://naregua-backend-g7vr.onrender.com/api';
 
 document.addEventListener('DOMContentLoaded', () => {
     const authToken = localStorage.getItem('authToken');

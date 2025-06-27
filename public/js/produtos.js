@@ -1,6 +1,6 @@
 // src/front/js/produtos.js
 
-const API_URL_PRODUTOS = 'https://naregua-backend.onrender.com/api';
+const API_URL_PRODUTOS = 'https://naregua-backend-g7vr.onrender.com/api';
 
 document.addEventListener('DOMContentLoaded', () => {
     // Lógica para o menu de usuário (pode ser movida para um utils.js no futuro)

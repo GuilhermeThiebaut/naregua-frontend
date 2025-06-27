@@ -1,6 +1,6 @@
 // src/front/js/adm.js
 
-const API_BASE_URL_ADM = 'https://naregua-backend.onrender.com/api';
+const API_BASE_URL_ADM = 'https://naregua-backend-g7vr.onrender.com/api';
 let allProducts = [];
 let produtoModalInstance;
 

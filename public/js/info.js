@@ -1,6 +1,6 @@
 // src/front/js/info.js
 
-const API_URL_INFO = 'https://naregua-backend.onrender.com/api';
+const API_URL_INFO = 'https://naregua-backend-g7vr.onrender.com/api';
 
 document.addEventListener('DOMContentLoaded', () => {
     // A lógica do menu de usuário (cabeçalho) pode ser adicionada aqui se necessário
